@@ -173,4 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# ignore the file from tracking
 pyproject.toml
+mongoDB_demo.ipynb
+data.csv
